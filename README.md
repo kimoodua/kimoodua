@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=About%20Me&section=header&textBg=false&animation=fadeIn&fontSize=40" width="100%" />
 <h1 align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Griffy&size=27&duration=3000&pause=1500&color=6F44F0&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cloud+Architect;Real-Time+Systems+Expert" alt="Typing SVG" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Griffy&size=30&duration=3000&pause=1500&color=6F44F0&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Cloud+Architect;Real-Time+Systems+Expert" alt="Typing SVG" /></a>
 </h1>
 
 <p>I'm a passionate developer specializing in full-stack development, cloud technologies, and real-time communication systems, with a growing interest in blockchain technology. As a beginner Solana blockchain developer, I am excited to explore and contribute to the decentralized ecosystem. I love building scalable, secure, and user-friendly applications, and I'm eager to apply my skills to create innovative solutions on the Solana platform. My goal is to deepen my understanding of blockchain development while continuing to deliver high-quality, impactful projects. Currently, I am working on a Solana-based project to enhance my skills, and I plan to take on more blockchain projects later this year to further expand my expertise and contribute to the space.</p>
@@ -85,37 +85,20 @@
 </p>
 
 <details>
-  <summary>Click to view crypto addresses</summary>
-  
   <h3>USDT (TRC20)</h3>
-  <p>
-    <code>TPatig7FRCNS5cKLsc1xd6iTxHbenqCXNi</code>
-    <a href="https://gist.github.com/your-username/your-gist-id">
-      <img src="https://img.shields.io/badge/Copy-grey?style=flat-square&logo=clipboard" alt="Copy"/>
-    </a>
-  </p>
-  <p><img src="https://i.imgur.com/Bizhpsq.jpeg" width="180" alt="USDT QR Code"/></p>
-  
-  <h3>Solana</h3>
-  <p>
-    <code>C3GnLuA7pJZUCJZ6Sfz31FHJZFEbCgLpiJMhJDWP9STn</code>
-    <a href="https://gist.github.com/your-username/your-gist-id">
-      <img src="https://img.shields.io/badge/Copy-grey?style=flat-square&logo=clipboard" alt="Copy"/>
-    </a>
-  </p>
-  <p><img src="https://i.imgur.com/dCxO2Rb.jpeg" width="180" alt="Solana QR Code"/></p>
-  
-  <h3>Bitcoin</h3>
-  <p>
-    <code>1LWzR4CygcCdAVPHsTXa66MtR7PLugYJr2</code>
-    <a href="https://gist.github.com/your-username/your-gist-id">
-      <img src="https://img.shields.io/badge/Copy-grey?style=flat-square&logo=clipboard" alt="Copy"/>
-    </a>
-  </p>
-  <p><img src="https://i.imgur.com/AyLpYCh.jpeg" width="180" alt="Bitcoin QR Code"/></p>
+<code>TPatig7FRCNS5cKLsc1xd6iTxHbenqCXNi</code><br>
+<p><img src="https://i.imgur.com/Bizhpsq.jpeg" width="180" alt="USDT QR Code"/></p>
+
+<h3>Solana</h3>
+<code>C3GnLuA7pJZUCJZ6Sfz31FHJZFEbCgLpiJMhJDWP9STn</code><br>
+<p><img src="https://i.imgur.com/dCxO2Rb.jpeg" width="180" alt="Solana QR Code"/></p>
+
+<h3>Bitcoin</h3>
+<code>1LWzR4CygcCdAVPHsTXa66MtR7PLugYJr2</code><br>
+<p><img src="https://i.imgur.com/AyLpYCh.jpeg" width="180" alt="Bitcoin QR Code"/></p>
 </details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 
-<!-- Proudly created with 💜 by Kimo Odua -->
+<!-- Proudly created with 💜 by www.Kimo.od.ua -->
 </div>
