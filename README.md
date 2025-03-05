@@ -1,18 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=About%20Me&section=header&textBg=false&animation=fadeIn&fontSize=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Welcome%20Adventurer&section=header&textBg=false&animation=fadeIn&fontSize=37&textColor=FFFFFF" width="100%" />
 <h1 align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Griffy&size=30&duration=3000&pause=1500&color=6F44F0&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Cloud+Architect;Real-Time+Systems+Expert" alt="Typing SVG" /></a>
 </h1>
 
 <p>I'm a passionate developer specializing in full-stack development, cloud technologies, and real-time communication systems, with a growing interest in blockchain technology. As a beginner Solana blockchain developer, I am excited to explore and contribute to the decentralized ecosystem. I love building scalable, secure, and user-friendly applications, and I'm eager to apply my skills to create innovative solutions on the Solana platform. My goal is to deepen my understanding of blockchain development while continuing to deliver high-quality, impactful projects. Currently, I am working on a Solana-based project to enhance my skills, and I plan to take on more blockchain projects later this year to further expand my expertise and contribute to the space.</p>
-
-<a href="https://komarev.com/ghpvc/?username=kimoodua">
-  <img src="https://komarev.com/ghpvc/?username=kimoodua&style=for-the-badge&color=6F44F0" />
-</a>
-
 <br>
-
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Griffy&size=30&duration=2000&pause=3000&color=6F44F0&center=true&vCenter=true&width=435&height=42&lines=🤙+Connect+With+Me" alt="Connect With Me" />
 </h2>
@@ -64,15 +58,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Griffy&size=30&duration=3000&pause=3000&color=FFD700&center=true&vCenter=true&width=435&height=42&lines=💰+Support+My+Work" alt="Support My Work" />
 </h2>
 <div align="center">
-  <a href="https://paypal.me/ricotheyellow@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
-  </a>&nbsp;
-  <a href="https://patreon.com/kimoodua" target="_blank">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
-  </a>&nbsp;
-  <a href="https://ko-fi.com/kimoodua" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"/>
-  </a>
+  <a href="https://paypal.me/ricotheyellow@gmail.com" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></a>&nbsp;<a href="https://patreon.com/kimoodua" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/></a>&nbsp;<a href="https://ko-fi.com/kimoodua" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"/></a>
 </div>
 
 <h2 align="center">
@@ -97,8 +83,9 @@
 <code>1LWzR4CygcCdAVPHsTXa66MtR7PLugYJr2</code><br>
 <p><img src="https://i.imgur.com/AyLpYCh.jpeg" width="180" alt="Bitcoin QR Code"/></p>
 </details>
-
+<a href="https://komarev.com/ghpvc/?username=kimoodua">
+  <img src="https://komarev.com/ghpvc/?username=kimoodua&style=for-the-badge&color=6F44F0" />
+</a>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
-
 <!-- Proudly created with 💜 by www.Kimo.od.ua -->
 </div>
