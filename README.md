@@ -5,7 +5,7 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Griffy&size=30&duration=3000&pause=1500&color=6F44F0&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Cloud+Architect;Real-Time+Systems+Expert" alt="Typing SVG" /></a>
 </h1>
 
-<p>I'm a passionate developer specializing in full-stack development, cloud technologies, and real-time communication systems, with a growing interest in blockchain technology. As a beginner Solana blockchain developer, I am excited to explore and contribute to the decentralized ecosystem. I love building scalable, secure, and user-friendly applications, and I'm eager to apply my skills to create innovative solutions on the Solana platform. My goal is to deepen my understanding of blockchain development while continuing to deliver high-quality, impactful projects. Currently, I am working on a Solana-based project to enhance my skills, and I plan to take on more blockchain projects later this year to further expand my expertise and contribute to the space.</p>
+<p>Telecom expert (5+ years): Voice/SMS traffic management & fraud prevention. Affiliate marketing pro (9+ years): Revenue generation & optimization. Full-stack developer (2+ years): Cloud, real-time systems, & Solana blockchain. Passionate about merging expertise for innovative solutions. Open to impactful roles.</p>
 <br>
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Griffy&size=30&duration=2000&pause=3000&color=6F44F0&center=true&vCenter=true&width=435&height=42&lines=🤙+Connect+With+Me" alt="Connect With Me" />
