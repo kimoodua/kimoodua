@@ -5,7 +5,7 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Griffy&size=30&duration=3000&pause=1500&color=6F44F0&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Cloud+Architect;Real-Time+Systems+Expert" alt="Typing SVG" /></a>
 </h1>
 
-<p>Telecom expert (5+ years): Voice/SMS traffic management & fraud prevention. Affiliate marketing pro (9+ years): Revenue generation & optimization. Full-stack developer (2+ years): Cloud, real-time systems, & Solana blockchain. Passionate about merging expertise for innovative solutions. Open to impactful roles.</p>
+<p>Telecom expert (5+ years): Voice/SMS traffic management & fraud prevention. Affiliate marketing pro (9+ years): Revenue generation & optimization. Full-stack Vibe Coding (2+ years): Fron/Back ends, & Solana blockchain Bots, Tasks Automation. Passionate about merging expertise for innovative solutions. Open to impactful roles.</p>
 <br>
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Griffy&size=30&duration=2000&pause=3000&color=6F44F0&center=true&vCenter=true&width=435&height=42&lines=🤙+Connect+With+Me" alt="Connect With Me" />
